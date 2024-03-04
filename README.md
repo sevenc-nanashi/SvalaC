@@ -10,4 +10,9 @@
 
 # ライセンス
 
-GPLv3 です。また、このプラグインの原案は[田口秀雄](https://twitter.com/taguchi_hideo)さんです。
+GPLv3 です。
+
+# 備考
+
+このプラグインの原案は[田口秀雄](https://twitter.com/taguchi_hideo)さんです。
+このREADMEは原案のものをベースに作成されています（雑学の部分含め。自分がマリオワンダーやりたいわけではない）
